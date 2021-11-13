@@ -1,8 +1,3 @@
-# CSE330
-Tomson Li 488501 tomsonlee13
-
-Rain 487627 Rain-0219
-
 Creative Portion: 
 
 1. Event Category: User can choose event's category when they add the event and they can use the radio button to get the list of a particular category of the event. If they wanna see all the events on a day, they can choose click the radio button "All" for that.
@@ -15,7 +10,4 @@ Creative Portion:
 
 http://ec2-18-222-238-90.us-east-2.compute.amazonaws.com/~tomsonlee/m5/login_check.php
 
--3 Events cannot be edited
--2 used var in code and no comments
--3 not safe from XSS attacks, content not escaped on ourput
--2 not safe from SQL injection, no prepared statements in PHP
+
