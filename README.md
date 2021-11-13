@@ -1,3 +1,14 @@
+## Calendar App
+
+   by Rain and Tomson
+
+
+
+## Link to file transfer website
+
+  http://ec2-18-222-238-90.us-east-2.compute.amazonaws.com/~tomsonlee/m5/login_check.php
+  
+  
 Creative Portion: 
 
 1. Event Category: User can choose event's category when they add the event and they can use the radio button to get the list of a particular category of the event. If they wanna see all the events on a day, they can choose click the radio button "All" for that.
@@ -8,6 +19,6 @@ Creative Portion:
 
 4. Reset Password functionality for users to reset their password.
 
-http://ec2-18-222-238-90.us-east-2.compute.amazonaws.com/~tomsonlee/m5/login_check.php
+
 
 
